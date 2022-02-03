@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Trainer : Jeevan Dandoji,
 		Rajampet-516115,Kadapa (DIst),
 		Andra Pradesh.
-		+91-7842602230
+		+91-8500017770
 		djeevan12@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to DevOps Online Training</a>
